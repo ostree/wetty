@@ -1,5 +1,9 @@
 ## WeTTy = Web + TTy
 
+This repository is used to keep a set tar.gz of the wetty source, to be used in Dockerfiles.
+
+wetty.tar.gz created with `tar -zcvf wetty.tar.gz ./`
+
 [ ![Codeship Status for butlerx/wetty](https://app.codeship.com/projects/caf50220-f884-0135-63bd-5231a73eac2d/status?branch=master)](https://app.codeship.com/projects/278281)
 
 Terminal over HTTP and https. WeTTy is an alternative to ajaxterm and anyterm
